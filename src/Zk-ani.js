@@ -129,6 +129,7 @@ export default function Zkani() {
       <div className="zk-button">
         <button className="zk-btn1" onClick={calculateZakatccc}>
           حساب زكاة الغنم
+
         </button>
         <h3>الزكاة: {totalccc}</h3>
       </div>
