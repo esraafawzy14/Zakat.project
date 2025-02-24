@@ -1,0 +1,111 @@
+
+ .ayah{
+     text-align: center;
+     margin-top: 20px;
+
+ }
+ .zk1{
+    margin: 20px;
+    
+ }
+ .zk-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 91vh;
+    flex-direction: column;
+ }
+ .zk-fitr{
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+ }
+ .zk-fitr1{
+    text-align: center;
+    margin-top: 10px;
+ }
+ .zk2{
+    margin: 10px;
+    font-size: 13px;
+}
+input{
+    width: 120px;
+    height: 30px;
+    margin: 10px;
+}
+.zk-inputs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.zk-button{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.zk-btn1{
+    width: 100px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+border-radius: 5px;
+    background-color: #28a745;
+    color: white;
+}
+.zk-btn1:hover{
+    background-color: #1e7e34;
+}
+.zk-btns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px;
+height: 55vh;
+  }
+  .zk-btn{
+    width: 150px;
+      height: 30px;
+      border: none;
+      cursor: pointer;
+  border-radius: 5px;
+      background-color: #28a745;
+      color: white;
+  }
+  .zk-btn:hover{
+    background-color: #1e7e34;
+    scale: 1.1;
+}
+.zk-money{
+    width: 450px;
+    height: 450px;
+    border: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+ }
+ .zk-ani2{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+ }
+ .ani2{
+    color: #28a745;
+    align-items: center;
+ }
+ hr{
+    color: #28a745;
+    width: 800px;
+    height: 2px;
+
+ }
